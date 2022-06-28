@@ -1,3 +1,4 @@
 result-*.jpg
 results/
 tests/
+__pycache__/
