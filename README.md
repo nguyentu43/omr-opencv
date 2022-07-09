@@ -1,4 +1,4 @@
-## OMR with OpenCV 🏫
+## OMR (Optical Mark Recognition) with OpenCV 🏫
 
 ![demo result](https://raw.githubusercontent.com/nguyentu43/omr-opencv/master/result.jpg)
 
